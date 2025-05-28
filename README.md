@@ -23,6 +23,8 @@ This Data Analysis
 - MS Power Point 
 
 ``` SQL
+
+
 Select First_Name, Last_Name as Full_Name
 concat (First_Name,'', Last_Name)
 from Employee
