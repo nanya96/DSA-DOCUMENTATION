@@ -15,9 +15,15 @@ This Data Analysis
 - MS Excel [Download Here](https://www.microsoft.com)
   - Data Collection
   - Data Cleaning
-    a. Data Manipulation
-    b. Data Munching
+    1. Data Manipulation
+    2. Data Munching
   - Data Summerization
 - SQL Server
 - Power Bi
 - MS Power Point 
+
+``` SQL
+Select First_Name, Last_Name as Full_Name
+concat (First_Name,'', Last_Name)
+from Employee
+`````
