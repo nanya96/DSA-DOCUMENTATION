@@ -7,3 +7,17 @@ I have learnt quite a number of things ranging from MS Excel to SQL and now to m
 ## Project Topic: E commerce Sales Analysis
 
 ### Project Overview
+This Data Analysis
+
+### Data Source
+
+### Tools Used
+- MS Excel [Download Here](https://www.microsoft.com)
+  - Data Collection
+  - Data Cleaning
+    a. Data Manipulation
+    b. Data Munching
+  - Data Summerization
+- SQL Server
+- Power Bi
+- MS Power Point 
